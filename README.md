@@ -22,15 +22,15 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: https://github.com/white315/CarND-Advanced-Lane-Lines-P2/blob/master/test_images/straight_lines2.jpg "Original Test Image"
-[image2]: https://github.com/white315/CarND-Advanced-Lane-Lines-P2/blob/master/output_images/straight_lines2_undistorted.png "Undistorted Image"
-[image3]: https://github.com/white315/CarND-Advanced-Lane-Lines-P2/blob/master/output_images/straight_lines2_binary.png "Combined Binary Image"
-[image4]: https://github.com/white315/CarND-Advanced-Lane-Lines-P2/blob/master/output_images/straight_lines2_warped.png "Warped Image"
-[image5]: https://github.com/white315/CarND-Advanced-Lane-Lines-P2/blob/master/output_images/straight_lines2_slides.png "Warped Image with Slides"
-[image6]: https://github.com/white315/CarND-Advanced-Lane-Lines-P2/blob/master/output_images/straight_lines2_preReWarp.png "Warped Image with Lane Markings"
-[image7]: https://github.com/white315/CarND-Advanced-Lane-Lines-P2/blob/master/output_images/straight_lines2_reWarp.png "ReWarped Image"
-[image8]: https://github.com/white315/CarND-Advanced-Lane-Lines-P2/blob/master/output_images/straight_lines2_final.png "Final Image"
-[video1]: https://github.com/white315/CarND-Advanced-Lane-Lines-P2/blob/master/test_videos_output/project_video.mp4 "Video"
+[image1]: https://github.com/joshrwhite/CarND-Advanced-Lane-Lines-P2/blob/master/test_images/straight_lines2.jpg "Original Test Image"
+[image2]: https://github.com/joshrwhite/CarND-Advanced-Lane-Lines-P2/blob/master/output_images/straight_lines2_undistorted.png "Undistorted Image"
+[image3]: https://github.com/joshrwhite/CarND-Advanced-Lane-Lines-P2/blob/master/output_images/straight_lines2_binary.png "Combined Binary Image"
+[image4]: https://github.com/joshrwhite/CarND-Advanced-Lane-Lines-P2/blob/master/output_images/straight_lines2_warped.png "Warped Image"
+[image5]: https://github.com/joshrwhite/CarND-Advanced-Lane-Lines-P2/blob/master/output_images/straight_lines2_slides.png "Warped Image with Slides"
+[image6]: https://github.com/joshrwhite/CarND-Advanced-Lane-Lines-P2/blob/master/output_images/straight_lines2_preReWarp.png "Warped Image with Lane Markings"
+[image7]: https://github.com/joshrwhite/CarND-Advanced-Lane-Lines-P2/blob/master/output_images/straight_lines2_reWarp.png "ReWarped Image"
+[image8]: https://github.com/joshrwhite/CarND-Advanced-Lane-Lines-P2/blob/master/output_images/straight_lines2_final.png "Final Image"
+[video1]: https://github.com/joshrwhite/CarND-Advanced-Lane-Lines-P2/blob/master/test_videos_output/project_video.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
 
